@@ -4,7 +4,7 @@ Jordle.py - An attempt to replicate the game "Wordle"
 
 Author: Jeff Brelsford
 
-Date: 07/29/2024
+Date: 06/28/2025
 '''
 #======================
 # imports

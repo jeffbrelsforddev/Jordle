@@ -28,8 +28,8 @@ GRAY_BG = "#C1C1C1"
 BLANK_SPACE = "   "
 MAX_GUESSES = 6
 VERBOSE = False
-CHEAT = True
-DEBUG = True
+CHEAT = False
+DEBUG = False
 GUESS_LABEL = "You have 6 guesses left"
 
 ##################################

@@ -15,7 +15,7 @@ If you have Python installed, you can run Jordle, by typing the following on the
 
 **python Jordle.py**
 
-or if you are running in Max/Linux or UNIX, you can start Jordle with
+or if you are running in Mac/Linux or UNIX, you can start Jordle with
 
 **./Jordle.sh&**
 

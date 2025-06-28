@@ -225,6 +225,7 @@ human
 ideal
 image
 index
+inlet
 inner
 input
 issue
@@ -377,6 +378,7 @@ shall
 shape
 share
 sharp
+sheen
 sheet
 shelf
 shell
@@ -400,6 +402,7 @@ smart
 smile
 smith
 smoke
+sneak
 solid
 solve
 sorry
@@ -539,6 +542,3 @@ wrote
 yield
 young
 youth
-inlet
-sneak
-sheen
